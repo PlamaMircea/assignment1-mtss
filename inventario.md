@@ -6,4 +6,5 @@ processori
 
 # periferiche
 tastiere
+mouse
 Elettronica Padovana
